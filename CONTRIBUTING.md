@@ -1,1 +1,1 @@
-Focus on simplicity and brevity over splendor and sophistication
+Pedro H. C. Sant'Anna for Econometrics in Emory

@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>WEBSITE</loc>
+       <loc>econometricsinemory.com</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>conometricsinemory.com/registration</loc>
    </url>
    <url>
-       <loc>WEBSITE/program</loc>
+       <loc>conometricsinemory.com/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>conometricsinemory.com/directions</loc>
    </url>
 </urlset> 
 
